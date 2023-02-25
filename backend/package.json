@@ -1,0 +1,18 @@
+{
+  "name": "agilno_project_backend",
+  "version": "1.0.0",
+  "description": "Agilno Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Dautovic",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "express-validator": "^6.15.0",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.20"
+  }
+}
